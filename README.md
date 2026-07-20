@@ -1,3 +1,4 @@
+Repository used to reproduce figures from the paper "Oceans of Data: Teaching Climate Change through Data Science"
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.14803798-blue.svg)](https://doi.org/10.5281/zenodo.14803798)
 
 ### Use case #1: BigQuery and satellite observations to study SST and SSH variability
